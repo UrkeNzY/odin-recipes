@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(160, 129, 71);
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+img{
+    display:block;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    text-align: center;
+    font-size: 75px;
+}
+
+a{
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    display: block;
+    margin-left: -25px;
+    line-height: 25px;
+}
+
+.food-list{
+    text-align: center;
+    margin-top: -30px;
+    line-height: 60px;
+}
+
+.food-page{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
